@@ -1,2 +1,0 @@
-#cmt
-print("Hello, World!")
